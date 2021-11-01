@@ -8,4 +8,4 @@ git config --global user.email "rihhosi@gamil.com"
 
 aaa
 
-bbb
+bbb ccccc
